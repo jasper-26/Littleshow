@@ -97,8 +97,12 @@
    list-style-type:disc;
     color: rgba(246,107,7,255);
    }
-   .dropdown:hover .dropdown-content-1{
+   /* .dropdown:hover .dropdown-content-1{
     display: block;
+   } */
+   .film-btn{
+    background-color: #303030;
+    border: none;
    }
 
 .short-film{
